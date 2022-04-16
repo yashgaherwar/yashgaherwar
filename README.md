@@ -1,7 +1,7 @@
 <img align="center" width="100%" height="400" src="https://futureskillsprime.in//sites/default/files/2021-04/web-development.jpg">
 <h1 align="center">Hi 👋, I'm Yash Gaherwar</h1>
 <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer.</h3>
-<h4>I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h4>
+<h4 align="center">I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
