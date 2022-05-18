@@ -7,9 +7,8 @@
 
 <h3 align="left">Current Status</h3>
 <p align="center">
-- 🔭 I’m currently working on **MERN Stack**
-
-- 💬 Ask me about **Competitive Programming**
+  - 🔭 I’m currently working on **MERN Stack**
+  - 💬 Ask me about **Competitive Programming**
 </p>
   
 <h3 align="left">Connect with me:</h3>
