@@ -5,11 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgaherwar&label=Profile%20views&color=0e75b6&style=flat" alt="yashgaherwar" /> </p>
-- 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Second Year undergrad at VIT Pune</strong>.</p> 
-- 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and solved almost <strong>600+ Coding problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank, GeeksForGeeks</strong> and etc.</p>
-- 🔭 I’m currently working on <strong>MERN Stack and Advanced Data Structures </strong>.</p>
-- 🔭 I’m currently a CP Problem Setter and also a Competitive Programming Article writer on GFG.</p>
-- 💬 Ask me about **Competitive Programming**</p>
+
+- 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Second Year undergrad at VIT Pune</strong>.
+- 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and solved almost <strong>600+ Coding problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank, GeeksForGeeks</strong> and etc.
+- 🔭 I’m currently working on <strong>MERN Stack and Advanced Data Structures </strong>.
+- 🔭 I’m currently a CP Problem Setter and also a Competitive Programming Article writer on GFG.
+- 💬 Ask me about **Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
