@@ -4,7 +4,6 @@
 <h3 align="center">I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **MERN Stack**
-
 - 💬 Ask me about **Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
