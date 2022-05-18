@@ -14,7 +14,7 @@
 
 <h3 align="left">My Publications:</h3>
 <p align="left">
-<a href="https://www.geeksforgeeks.org/reduce-array-and-maximize-sum-by-deleting-one-occurrence-of-ai-and-all-occurrences-of-ai1-and-ai-1/" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.geeksforgeeks.org/reduce-array-and-maximize-sum-by-deleting-one-occurrence-of-ai-and-all-occurrences-of-ai1-and-ai-1/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/yash-gaherwar-21a671208](https://www.geeksforgeeks.org/reduce-array-and-maximize-sum-by-deleting-one-occurrence-of-ai-and-all-occurrences-of-ai1-and-ai-1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
