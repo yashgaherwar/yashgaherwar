@@ -5,7 +5,7 @@
 <div>  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3>Current Status</h3>
+<h3 align="left">Current Status</h3>
   
 - 💼 I’m pursuing <strong>BTech in Computer Science</strong> and Currently a <strong>Second Year Undergrad at VIT Pune</strong>.
   
@@ -15,7 +15,7 @@
   
 - 🔭 I’m currently a problem Setter and also a Competitive Programming Article writer on GFG.
   
-- 💬 Ask me about <strong>Competitive Programming</strong>.
+- 💬 Ask me about **Competitive Programming**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
