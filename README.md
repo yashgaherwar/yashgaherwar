@@ -5,11 +5,13 @@
 <div>  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center">
 <h2>Current Status</h2>
   
+<p align="center">
+
+  
 - 💼 I’m pursuing <strong>BTech in Computer Science and Currently a Second Year Undergrad at VIT Pune</strong>.
-- 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and solved almost <strong>600+ Coding problems</strong> combinely on <strong>Codechef, Codeforces,           Leetcode, Hackerrank, GeeksForGeeks</strong> and etc.
+- 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and solved almost <strong>600+ Coding problems</strong> combinely on <strong>Codechef, Codeforces,  Leetcode, Hackerrank, GeeksForGeeks</strong> and etc.
 - 🔭 I’m currently working on <strong>MERN Stack and Advanced Data Structures.</strong>
 - 🔭 I’m currently a problem Setter and also a Competitive Programming Article writer on GFG.
 - 💬 Ask me about <strong>Competitive Programming</strong>
