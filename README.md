@@ -6,7 +6,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgaherwar&label=Profile%20views&color=0e75b6&style=flat" alt="yashgaherwar" /> </p>
 
-- 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Second Year undergrad at VIT Pune</strong>.
+- 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Third Year undergrad at VIT Pune</strong>.
 - 🔭 I’m currently working on <strong>MERN Stack and Advanced Data Structures </strong>.
 - 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and i have solved <strong>800+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
 - 🔭 I’m currently a CP Problem Setter and also a Competitive Programming Article writer on GFG.
