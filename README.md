@@ -8,7 +8,7 @@
 
 - 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Third Year undergrad at VIT Pune</strong>.
 - 🔭 I’m currently working on <strong>MERN Stack and Advanced Data Structures </strong>.
-- 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and i have solved <strong>800+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
+- 🌱 I’m currently a <strong>4 star coder on Codechef</strong> and i have solved <strong>1000+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
 
