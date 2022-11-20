@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="300" src="https://user-images.githubusercontent.com/72980929/202922440-3957ff35-87f2-4069-a9ec-7ff6b7f1af1c.png">
+<img align="center" width="100%" height="250" src="https://user-images.githubusercontent.com/72980929/202922440-3957ff35-87f2-4069-a9ec-7ff6b7f1af1c.png">
 <h1 align="center">Hi 👋, I'm Yash Gaherwar</h1>
 <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
 
