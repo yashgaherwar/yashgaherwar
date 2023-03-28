@@ -41,7 +41,7 @@
 <h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgaherwar&show_icons=true&theme=dark&locale=en" alt="yashgaherwar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgaherwar&show_icons=true&theme=dark&layout=compact" alt="yashgaherwar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgaherwar&theme=dark" alt="yashgaherwar" /></p>
+<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=yashgaherwar&theme=dark" alt="yashgaherwar" /></p>
 
 <h3 align="left">Git Profile Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app?username=yashgaherwar&show_icons=true&theme=dark" alt="yashgaherwar" /></a></p>
