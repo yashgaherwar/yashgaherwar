@@ -6,7 +6,7 @@
 
 - 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Third Year undergrad at VIT Pune</strong>.
 - 🔭 I’m currently working on <strong>Spring Boot and Cloud Computing</strong>.
-- 🌱 I’m currently a <strong>4 star coder on Codechef with College Rank 1</strong> and i have solved <strong>1200+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
+- 🌱 I’m currently a <strong>4 star coder on Codechef with College Rank 1</strong> and i have solved <strong>1500+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
 - 🌱 I’m currently a <strong>Knight at Leetcode ( Rating: 1933 and Top 3.73% in World )</strong>.
 - 🌱 I’m currently a <strong>Specialist at Codeforces</strong>.
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
