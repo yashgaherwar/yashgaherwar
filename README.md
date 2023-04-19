@@ -12,7 +12,6 @@
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
 
-
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/yash_coder_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash_coder_123" height="30" width="40" /></a>
