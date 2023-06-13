@@ -38,7 +38,6 @@
 <a href="https://www.geeksforgeeks.org/reduce-array-and-maximize-sum-by-deleting-one-occurrence-of-ai-and-all-occurrences-of-ai1-and-ai-1/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210101144014/gfglogo.png" height="100" width="100" longdesc="#longdescdeno" /></a>
 </p>
 <h3 align="left">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgaherwar&show_icons=true&theme=dark&locale=en" alt="yashgaherwar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgaherwar&show_icons=true&theme=dark&layout=compact" alt="yashgaherwar" /></p>
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=yashgaherwar&theme=dark" alt="yashgaherwar" /></p>
 
