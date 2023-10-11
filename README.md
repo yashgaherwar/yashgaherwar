@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="250" src="https://user-images.githubusercontent.com/72980929/202922994-ef0201df-f462-4971-9f4d-73bff687dbc9.png">
+![image](https://github.com/yashgaherwar/yashgaherwar/assets/72980929/dd39b672-e7fe-4a8d-8f11-08b7a8e026a1)<img align="center" width="100%" height="250" src="https://user-images.githubusercontent.com/72980929/202922994-ef0201df-f462-4971-9f4d-73bff687dbc9.png">
 <h1 align="center">Hi 👋, I'm Yash Gaherwar</h1>
 <h3 align="center">A Passionate Competitive Programmer and Aspiring Software Engineer. I am a Full Stack Development Enthusiast and always try to contribute new and Innovative ideas to the Tech Community.</h3>
 <p align="center"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
@@ -6,8 +6,8 @@
 
 - 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Final Year undergrad at VIT Pune</strong>.
 - 🔭 I’m currently working on <strong>Spring Boot and Cloud Computing</strong>.
-- 🌱 I’m currently a <strong>4 star coder on Codechef with College Rank 1</strong> and i have solved <strong>1500+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
-- 🌱 I’m currently a <strong>Knight at Leetcode ( Max Rating: 1933 and Top 3.73% in World )</strong>.
+- 🌱 I’m currently a <strong>4 star coder on Codechef </strong> and i have solved <strong>1500+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
+- 🌱 I’m currently a <strong>Knight at Leetcode ( Rating: 1943 and Top 3.63 % in World )</strong>.
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
 
