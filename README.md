@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgaherwar&label=Profile%20views&color=0e75b6&style=flat" alt="yashgaherwar" /> </p>
 
 - 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Final Year undergrad at VIT Pune</strong>.
-- 🔭 I’m currently working on <strong>Spring Boot and Cloud Computing</strong>.
-- 🌱 I’m currently a <strong>4 star coder on Codechef </strong> and i have solved <strong>1500+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
+- 🔭 I’m currently working on <strong>Backend</strong>.
+- 🌱 I’m currently a <strong>Expert at codeforces, 4 star coder on Codechef </strong> and i have solved <strong>2000+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
 - 🌱 I’m currently a <strong>Knight at Leetcode ( Rating: 1943 and Top 3.63 % in World )</strong>.
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
