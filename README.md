@@ -7,7 +7,7 @@
 - 💼 I’m pursuing <strong>BTech in Computer Science</strong> and <strong>currently a Final Year undergrad at VIT Pune</strong>.
 - 🔭 I’m currently working on <strong>Backend</strong>.
 - 🌱 I’m currently a <strong>Expert at codeforces, 4 star coder on Codechef </strong> and i have solved <strong>2000+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
-- 🌱 I’m currently a <strong>Knight at Leetcode ( Rating: 1963 and Top 3.33 % in World )</strong>.
+- 🌱 I’m currently a <strong>Knight at Leetcode ( Rating: 1974 and Top 3 % in World )</strong>.
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
 
