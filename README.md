@@ -11,14 +11,6 @@
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
 
-<h3 align="left">Coding Profile:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/yash_coder_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash_coder_123" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/yashgaherwar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashgaherwar2002" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yashgaherwar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yashgaherwar2002" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashgaherwar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashgaherwar2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yashgaherwar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashgaherwar2002" height="30" width="40" /></a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-gaherwar-21a671208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-gaherwar-21a671208" height="30" width="40" /></a>
