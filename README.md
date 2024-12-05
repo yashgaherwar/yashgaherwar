@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <strong>Backend</strong>.
 - 🌱 I’m currently a <strong>Expert at codeforces, 4 star coder on Codechef </strong> and i have solved <strong>2000+ Coding Problems</strong> combinely on <strong>Codechef, Codeforces, Leetcode, Hackerrank and GeeksForGeeks</strong>.
-- 🌱 I’m currently ranked <strong>113 <strong>globally on GeeksforGeeks with Rating 20280.
+- 🌱 I’m currently ranked <strong>113 globally on GeeksforGeeks with Rating 2080 (0.4 % in world).
 - 🌱 I’m currently a <strong>Knight at Leetcode ( Rating: 1998 and Top 2.77 % in World )</strong>.
 - 🔭 I have written and published Competitive Programming Articles on GeeksForGeeks and Tech Articles on Medium.
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms**.
